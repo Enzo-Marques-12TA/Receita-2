@@ -26,7 +26,7 @@ margin-bottom: 40px;
 
 
 h1, h2 {
-font-family: 'Lora', serif;
+font-family: 'lora', serif;
 }
 
 h1 {
@@ -139,23 +139,13 @@ th{
 
 td {
 padding-left: 16px;
-font-weight: 400;
-color: #5f564d;
-line-height: 150%;
-}
-
-td {
-padding-left: 16px;
 font-weight: 700;
 color: #854632;
 line-height: 150%;
 }
 
-
-
 tr + tr th,
 tr + tr td {
-margin-bottom: 12px;
 padding-block: 12px;
 
 }
